@@ -1,2 +1,2 @@
-# RAG-01
+# RAG-02
 RAG MODEL
